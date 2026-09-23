@@ -1,0 +1,32 @@
+Aluno: a
+Nota nº 1: 9.0
+Nota nº 2: 8.0
+Nota nº 3: 9.0
+Nota nº 4: 8.0
+Média final: 8.5
+Situação: Aprovado
+
+Aluno: b
+Nota nº 1: 4.0
+Nota nº 2: 4.0
+Nota nº 3: 4.0
+Nota nº 4: 4.0
+Média final: 4.0
+Situação: Reprovado
+
+Aluno: c
+Nota nº 1: 5.0
+Nota nº 2: 5.0
+Nota nº 3: 5.0
+Nota nº 4: 5.0
+Média final: 5.0
+Situação: Recuperação
+
+Aluno: d
+Nota nº 1: 6.0
+Nota nº 2: 6.0
+Nota nº 3: 6.0
+Nota nº 4: 6.0
+Média final: 6.0
+Situação: Recuperação
+
